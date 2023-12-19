@@ -1,4 +1,4 @@
-![image](https://github.com/Team-Hexads/Chacha-Chaudhary-AI-BOT/assets/122260105/53b6f7fa-3e79-4b11-a594-bf21bc6cc227)
+![image](https://github.com/Team-Hexads/Chacha-Chaudhary-AI-BOT/assets/122260105/b62757fc-7fdb-4cf7-8e6d-cf124fdef671)
 
 Steps to get this in your computer
 Step 1: clone this repository (follow the same structure)
