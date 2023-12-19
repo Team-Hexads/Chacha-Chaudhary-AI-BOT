@@ -772,6 +772,37 @@
             ],
             "context_set": ""
         },
+        {
+            "tag": "create",
+            "patterns": [
+                "Who is your creator?",
+                "By whom were you created?",
+                "What individual brought you into existence?",
+                "Who is responsible for your creation?",
+                "Who designed and developed you?",
+                "Who brought you into being?",
+                "Who is the mind behind your creation?",
+                "Who is the mastermind behind your existence?",
+                "From whom did you originate?",
+                "Who gave you life as a chat bot?",
+                "Can you introduce yourself?",
+                "Tell me about yourself.",
+                "Introduce yourself, please.",
+                "Who are you?",
+                "Share a bit about who you are.",
+                "Provide an introduction about yourself.",
+                "Give me some information about yourself.",
+                "How would you describe yourself?",
+                "What can you tell me about your identity?",
+                "Could you give me an introduction of who you are?",
+                "who created you?",
+                "who is your developer?"
+            ],
+            "responses": [
+                "I am chacha chaudhary.An AI bot developed by Md Zaid Sutar"
+            ],
+            "context_set": ""
+        },
 
 
 
